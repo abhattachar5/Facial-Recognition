@@ -6,6 +6,7 @@ This repository provides the outline for creating a facial recognition model usi
 - Each individual (person) would be an unique class and the output shall be a probability value for the input image against each class
 - Please ensure that the number of images for each class (individual) is the same and is cropped to the face.
 - There sould not be any other face in the images and the faces should be clearly visible
+- The dataset is split 80-20 into Train and Test
 
 
 # Custom VGG Architecture
